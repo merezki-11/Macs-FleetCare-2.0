@@ -45,10 +45,12 @@ Based on our professional evaluation, the 2.0 model prioritizes catching failure
 
 
 Project Structure
-Macs-FleetCare/
-├── main.py               # FastAPI Prediction Logic
-├── fleetcare_model.joblib # Trained XGBoost Artifact
-├── scaler.joblib          # Feature Normalization Artifact
-└── Homepage/             # High-fidelity project assets & UI screenshots
+
+
+- Macs-FleetCare/
+- ├── main.py                # FastAPI Prediction Logic
+- ├── fleetcare_model.joblib # Trained XGBoost Artifact
+- ├── scaler.joblib          # Feature Normalization Artifact
+- └── Homepage/              # High-fidelity project assets & UI screenshots
 
 
