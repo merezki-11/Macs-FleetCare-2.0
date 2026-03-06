@@ -37,10 +37,10 @@ Deployment: Vercel.
 Model Performance Highlights
 Based on our professional evaluation, the 2.0 model prioritizes catching failures (Recall) over raw accuracy, identifying 816 correct failures that would have otherwise gone unnoticed.
 
-Metric,Score
-Failure Recall (Class 0),56%
-Operational Precision (Class 1),73%
-Alert Threshold,30.0%
+- Metric,  Score
+- Failure Recall (Class 0),  56%
+- Operational Precision (Class 1),  73%
+- Alert Threshold,  30.0%
 
 
 
